@@ -1,0 +1,7 @@
+
+[   {"_comment": "Just a sample training data file"} ,
+    {"prompt": "What is Linux?", "response": "Linux is an open-source operating system."},
+
+    {"prompt": "Explain RAM", "response": "RAM is temporary memory used by programs."} ,
+    {"prompt": "What is a CPU?", "response": "CPU is the brain of the computer that processes instructions."}
+]
